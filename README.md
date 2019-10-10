@@ -8,3 +8,6 @@ A game made during a scholar game jam, with a team of 4 artists and 1 developer.
 Embody Didier and defeat the aquatic Martian !
 
 ![gameplay](https://user-images.githubusercontent.com/19146183/66551895-9f0b4780-eb48-11e9-997d-9a22b6f87ca0.gif)
+
+## Download
+Head to the [releases](https://github.com/Telroshan/Jam-Didier/releases) to download the game
